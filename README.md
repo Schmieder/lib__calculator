@@ -1,1 +1,1 @@
-A simple library.
+A simple library via GIT.
